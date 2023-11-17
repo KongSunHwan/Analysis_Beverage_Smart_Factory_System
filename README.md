@@ -1,5 +1,4 @@
-# Analysis_Beverage_Smart_Factory_System 
-## 식음료 제조 스마트 팩토리 시스템 분석 및 설계
+# 식음료 제조 스마트 팩토리 시스템 분석 및 설계
 
 ## 팀프로젝트 팀원
 ![image](https://github.com/KongSunHwan/Analysis_Beverage_Smart_Factory_System/assets/85215507/9a038940-8313-4cde-a09e-c35a69793370)
