@@ -9,6 +9,7 @@
 - 불량 검사
 
 ## 필름포장 아키텍처(UML) 설계
+![image](https://github.com/KongSunHwan/Analysis_Beverage_Smart_Factory_System/assets/85215507/7f07e963-a72b-4632-a58a-b62ad7583757)
 ![image](https://github.com/KongSunHwan/Analysis_Beverage_Smart_Factory_System/assets/85215507/da86eec2-011a-4085-ab51-37c3238b5a2c)
 ![image](https://github.com/KongSunHwan/Analysis_Beverage_Smart_Factory_System/assets/85215507/aef5dd51-19f0-4bde-b12d-4da85eefd992)
 ![image](https://github.com/KongSunHwan/Analysis_Beverage_Smart_Factory_System/assets/85215507/f56069e4-ffb6-4184-9bd0-36b2fefe0a6c)
