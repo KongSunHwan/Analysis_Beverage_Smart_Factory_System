@@ -5,7 +5,8 @@
 ![image](https://github.com/KongSunHwan/Analysis_Beverage_Smart_Factory_System/assets/85215507/de5ec03b-6695-4f92-b197-2a9d16f75699)
 
 ## 팀 내 맡은 역할
-![image](https://github.com/KongSunHwan/Analysis_Beverage_Smart_Factory_System/assets/85215507/3a897d2d-f3d0-4eeb-9e7e-72243bdae2bc)
+- 필름 포장
+- 불량 검사
 
 ## 필름포장 아키텍처(UML) 설계
 ![image](https://github.com/KongSunHwan/Analysis_Beverage_Smart_Factory_System/assets/85215507/da86eec2-011a-4085-ab51-37c3238b5a2c)
